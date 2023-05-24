@@ -5,7 +5,7 @@
 [MisaMix](https://github.com/Nitrolego/misamix)
 <br>
 MisaMix allows users to create MisaMino compatible soundpacks from YHF@TETR.IO+ with a GUI!
-<img src="images/misamixUI2.png?raw=true"/>
+<img src="images/misamix.png?raw=true"/>
 
 ---
 
