@@ -2,34 +2,21 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[MisaMix](https://github.com/Nitrolego/misamix)
+<br>
+MisaMix allows users to create MisaMino compatible soundpacks from YHF@TETR.IO+ with a GUI!
+<img src="images/misamixUI2.png?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+[Reimagined-pancake](https://github.com/Nitrolego/reimagined-pancake)
+<br>
+A script to automate data generation for insertion into a SQL database
 
 
 
 
 ---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
