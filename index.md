@@ -11,6 +11,15 @@ MisaMix allows users to create MisaMino compatible soundpacks from YHF@TETR.IO+ 
 
 ---
 
+[Doughberman : a personal finance app](https://github.com/Nitrolego/doughberman)
+<br>
+Doughberman allows users to manage their financial life through one app, by letting them keep up to date with the latest news in the finance world, and to track their expense. 
+<br>
+<br>
+<img src=""/>
+
+---
+
 [Reimagined-pancake](https://github.com/Nitrolego/reimagined-pancake)
 <br>
 A script to automate data generation for insertion into a SQL database
